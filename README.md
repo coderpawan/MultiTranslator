@@ -3,4 +3,4 @@
 
 [Watch The Demo](https://drive.google.com/file/d/1qFHhvq8s83Jn3TEF1ZRRwGOYu7Px9e64/view?usp=sharing)
 
-
+<img width="700" src="https://github.com/coderpawan/MultiTranslator/blob/main/public/images/translate.jpg"/> 
